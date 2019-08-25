@@ -159,11 +159,6 @@
         "url": "https://www.pinterest.com",
         "tags": ["sharing & publishing"]
     },
-    "googleplus": {
-        "display": "Google+",
-        "url": "https://plus.google.com/",
-        "tags": ["sharing & publishing"]
-    },
     "strava": {
         "display": "Strava",
         "url": "https://www.strava.com/",
