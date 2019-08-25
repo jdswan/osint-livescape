@@ -114,11 +114,6 @@
         "url": "https://savefrom.net",
         "tags": ["youtube", "social media"]
     },
-    "youtubedataviewer": {
-        "display": "Youtube DataViewer",
-        "url": "",
-        "tags": ["youtube", "social media"]
-    },
     "framebyframe": {
         "display": "Frame by Frame",
         "url": "http://www.watchframebyframe.com/",
