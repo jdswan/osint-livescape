@@ -19,10 +19,14 @@ OSINT Livescape removes the problems inherent to a static list of internet resou
  * Elements have "tags" attribute which duplicate or closely approximate the groupings present on the original landscape document.
 
 **0.2** All elements without associated URL removed
- * A URL could not be located for some elements, or returned a 404 error. These elements were deleted from the JSON dictionary.
+ * A URL could not be located for some elements, or returned a 404 error. 
+ * The following elements were deleted from the JSON dictionary.
    * fSignal
    * Download-Twitter-Videos
    * Instagram Downloader
    * Photo Map
    * Youtube DataViewer
    * AisDecoder
+   * websta
+   * Google+
+   * izitru
