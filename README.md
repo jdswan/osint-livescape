@@ -12,17 +12,17 @@ OSINT Livescape removes the problems inherent to a static list of internet resou
 
 #### Version Log
 
-- **0.1** ++"Exact copy" of the OSINT Landscape v. 1 guide++
- - Every element on the original landscape document is represented by an element in a JSON dictionary.
- - JSON is temporary, so keys aren't rigorously systematic.
- - Elements have "display" (display name), and URL attributes.
- - Elements have "tags" attribute which duplicate or closely approximate the groupings present on the original landscape document.
+**0.1** "Exact copy" of the OSINT Landscape v. 1 guide
+ * Every element on the original landscape document is represented by an element in a JSON dictionary.
+ * JSON is temporary, so keys aren't rigorously systematic.
+ * Elements have "display" (display name), and URL attributes.
+ * Elements have "tags" attribute which duplicate or closely approximate the groupings present on the original landscape document.
 
-- **0.2** ++All elements without associated URL removed++
- - A URL could not be located for some elements, or returned a 404 error. These elements were deleted from the JSON dictionary.
-   - fSignal
-   - Download-Twitter-Videos
-   - Instagram Downloader
-   - Photo Map
-   - Youtube DataViewer
-   - AisDecoder
+**0.2** All elements without associated URL removed
+ * A URL could not be located for some elements, or returned a 404 error. These elements were deleted from the JSON dictionary.
+   * fSignal
+   * Download-Twitter-Videos
+   * Instagram Downloader
+   * Photo Map
+   * Youtube DataViewer
+   * AisDecoder
