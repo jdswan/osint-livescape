@@ -2,692 +2,830 @@
     "facebook": {
         "display": "Facebook",
         "url": "https://www.facebook.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "weibo": {
         "display": "Weibo",
         "url": "https://www.weibo.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "twitter": {
         "display": "Twitter",
         "url": "https://twitter.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "qzone": {
         "display": "Qzone",
         "url": "https://qzone.qq.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "instagram": {
         "display": "Instagram",
         "url": "https://www.instagram.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "odnoklassniki": {
         "display": "Odnoklassniki",
         "url": "http://ok.ru/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "linkedin": {
         "display": "LinkedIn",
         "url": "http://ok.ru/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "vk": {
         "display": "VK",
         "url": "https://vk.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "snapchat": {
         "display": "Snapchat",
         "url": "https://www.snapchat.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "youtube": {
         "display": "YouTube",
         "url": "https://www.youtube.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "periscope": {
         "display": "Periscope",
         "url": "https://www.periscope.tv/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "stalkscan": {
         "display": "StalkScan",
         "url": "https://stalkscan.com",
-        "tags": ["facebook", "social media"]
+        "tags": ["facebook", "social media"],
+        "status": "up"
     },
     "fbdown": {
         "display": "FBDown",
         "url": "https://fbdown.net/",
-        "tags": ["facebook", "social media"]
+        "tags": ["facebook", "social media"],
+        "status": "up"
     },
     "peoplefindthor": {
         "display": "peoplefindThor",
         "url": "https://www.peoplefindthor.dk/",
-        "tags": ["facebook", "social media"]
+        "tags": ["facebook", "social media"],
+        "status": "disabled"
     },
     "tweetbeaver": {
         "display": "Tweetbeaver",
         "url": "https://www.tweetbeaver.com/",
-        "tags": ["twitter", "social media"]
+        "tags": ["twitter", "social media"],
+        "status": "up"
     },
     "twxplorer": {
         "display": "twXplorer",
         "url": "https://twxplorer.knightlab.com/",
-        "tags": ["twitter", "social media"]
+        "tags": ["twitter", "social media"],
+        "status": "up"
     },
     "twitterlistcopy": {
         "display": "Twitter List Copy",
         "url": "http://projects.noahliebman.net/listcopy/connect.php",
-        "tags": ["twitter", "social media"]
+        "tags": ["twitter", "social media"],
+        "status": "up"
     },
     "tweetdeck": {
         "display": "TweetDeck",
         "url": "https://tweetdeck.twitter.com/",
-        "tags": ["twitter", "social media"]
+        "tags": ["twitter", "social media"],
+        "status": "up"
     },
     "picodash": {
         "display": "picodish",
         "url": "https://www.picodash.com/",
-        "tags": ["instagram", "social media"]
+        "tags": ["instagram", "social media"],
+        "status": "up"
     },
     "socilab": {
         "display": "socilab",
         "url": "http://socilab.com/",
-        "tags": ["linkedin", "social media"]
+        "tags": ["linkedin", "social media"],
+        "status": "disabled"
     },
     "snapmap": {
         "display": "SnapMap",
         "url": "http://snapmap.com",
-        "tags": ["snapchat", "social media"]
+        "tags": ["snapchat", "social media"],
+        "status": "up"
     },
     "savefromdotnet": {
         "display": "savefrom.net",
         "url": "https://savefrom.net",
-        "tags": ["youtube", "social media"]
+        "tags": ["youtube", "social media"],
+        "status": "up"
     },
     "framebyframe": {
         "display": "Frame by Frame",
         "url": "http://www.watchframebyframe.com/",
-        "tags": ["youtube", "social media"]
+        "tags": ["youtube", "social media"],
+        "status": "up"
     },
     "storyful": {
         "display": "Storyful",
         "url": "https://storyful.com/",
-        "tags": ["youtube", "social media"]
+        "tags": ["youtube", "social media"],
+        "status": "up"
     },
     "geosearchtool": {
         "display": "Geo Search Tool",
         "url": "http://youtube.github.io/geo-search-tool/search.html",
-        "tags": ["youtube", "social media"]
+        "tags": ["youtube", "social media"],
+        "status": "up"
     },
     "scopedown": {
         "display": "Scopedown",
         "url": "https://www.downloadperiscopevideos.com/",
-        "tags": ["periscope", "social media"]
+        "tags": ["periscope", "social media"],
+        "status": "up"
     },
     "dataminr": {
         "display": "Dataminr",
         "url": "https://www.dataminr.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "inteltechniques": {
         "display": "IntelTechniques",
         "url": "https://inteltechniques.com/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "echosec": {
         "display": "Echosec",
         "url": "https://www.echosec.net/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "warwire": {
         "display": "War Wire",
         "url": "https://www.warwire.net/",
-        "tags": ["social media"]
+        "tags": ["social media"],
+        "status": "up"
     },
     "flickr": {
         "display": "Flickr",
         "url": "https://www.flickr.com/",
-        "tags": ["sharing & publishing"]
+        "tags": ["sharing & publishing"],
+        "status": "up"
     },
     "pinterest": {
         "display": "Pinterest",
         "url": "https://www.pinterest.com",
-        "tags": ["sharing & publishing"]
+        "tags": ["sharing & publishing"],
+        "status": "up"
     },
     "strava": {
         "display": "Strava",
         "url": "https://www.strava.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "tumblr": {
         "display": "Tumblr",
         "url": "https://tumblr.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "livejournal": {
         "display": "LiveJournal",
         "url": "https://www.livejournal.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "classmates": {
         "display": "Classmates",
         "url": "https://www.classmates.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "wordpress": {
         "display": "WordPress",
         "url": "https://wordpress.org/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "blogger": {
         "display": "Blogger",
         "url": "https://www.blogger.com",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "wix": {
         "display": "Wix",
         "url": "https://www.wix.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "medium": {
         "display": "Medium",
         "url": "https://medium.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "proboards": {
         "display": "ProBoards",
         "url": "https://www.proboards.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "squarespace": {
         "display": "Squarespace",
         "url": "https://www.squarespace.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "joomla": {
         "display": "Joomla",
         "url": "https://www.joomla.org/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "ghost": {
         "display": "Ghost",
         "url": "https://ghost.org/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "weebly": {
         "display": "Weebly",
         "url": "https://weebly.com/",
-        "tags": ["blogging & other communities"]
+        "tags": ["blogging & other communities"],
+        "status": "up"
     },
     "marinetraffic": {
         "display": "MarineTraffic",
         "url": "https://www.marinetraffic.com/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "ihsmarkitaislive": {
         "display": "IHS Markit AISLive",
         "url": "https://ihsmarkit.com/products/ais-live-ship-tracker.html",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "llyodslistintelligence": {
         "display": "Lloyd's List Intelligence",
         "url": "https://www.lloydslistintelligence.com/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "shipspottingdotcom": {
         "display": "ShipSpotting",
         "url": "http://shipspotting.com/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "vesselfinder": {
         "display": "Vessel Finder",
         "url": "https://www.vesselfinder.com/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "shipfinder": {
         "display": "Shipfinder",
         "url": "https://www.shipfinder.com",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "aishub": {
         "display": "AISHub",
         "url": "https://www.aishub.net/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "openseamap": {
         "display": "OpenSeaMap",
         "url": "http://openseamap.org/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "shipais": {
         "display": "ShipAIS",
         "url": "http://www.shipais.com/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "shippingexplorer": {
         "display": "ShippingExplorer",
         "url": "https://www.shippingexplorer.net",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "boatnerd": {
         "display": "BoatNerd",
         "url": "http://ais.boatnerd.com/",
-        "tags": ["maritime movements"]
+        "tags": ["maritime movements"],
+        "status": "up"
     },
     "coaa": {
         "display": "COAA",
         "url": "https://www.coaa.co.uk/",
-        "tags": ["aviation movements", "maritime movements"]
+        "tags": ["aviation movements", "maritime movements"],
+        "status": "up"
     },
     "airnavradarbox": {
         "display": "AirNav RadarBox",
         "url": "https://www.radarbox24.com/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "adsbexchange": {
         "display": "ADS-B Exchange",
         "url": "https://www.adsbexchange.com/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "flightaware": {
         "display": "FlightAware",
         "url": "https://flightaware.com/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "liveatcdotnet": {
         "display": "LiveATC.net",
         "url": "https://www.liveatc.net/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "flightradar24": {
         "display": "Flightradar24",
         "url": "https://www.flightradar24.com/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "gvadictatoralert": {
         "display": "Dictator Alert",
         "url": "https://dictatoralert.org/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "planespottersdotnet": {
         "display": "Planespotters.net",
         "url": "https://www.planespotters.net/",
-        "tags": ["aviation movements"]
+        "tags": ["aviation movements"],
+        "status": "up"
     },
     "radioreference": {
         "display": "Radio Reference",
         "url": "https://www.radioreference.com/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "broadcastify": {
         "display": "Broadcastify",
         "url": "https://www.broadcastify.com/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "radiogarden": {
         "display": "Radio Garden",
         "url": "https://radio.garden/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "sdrdothu": {
         "display": "SDR.hu",
         "url": "https://sdr.hu/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "globaltuners": {
         "display": "GlobalTuners",
         "url": "https://www.globaltuners.com/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "proscan": {
         "display": "ProScan",
         "url": "https://proscan.org/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "milscanners": {
         "display": "MilScanners",
         "url": "https://www.milscanners.org/",
-        "tags": ["radio"]
+        "tags": ["radio"],
+        "status": "up"
     },
     "opencorporates": {
         "display": "OpenCorporates",
         "url": "https://opencorporates.com/",
-        "tags": ["commercial registries"]
+        "tags": ["commercial registries"],
+        "status": "up"
     },
     "icijoffshoreleaksdatabase": {
         "display": "ICIJ Offshore Leaks Database",
         "url": "https://offshoreleaks.icij.org/",
-        "tags": ["commercial registries"]
+        "tags": ["commercial registries"],
+        "status": "up"
     },
     "investigativedashboardsearch": {
         "display": "Investigative Dashboard",
         "url": "https://investigativedashboard.org/",
-        "tags": ["commercial registries"]
+        "tags": ["commercial registries"],
+        "status": "up"
     },
     "infobel": {
         "display": "Infobel",
         "url": "https://www.infobel.com/",
-        "tags": ["commercial registries"]
+        "tags": ["commercial registries"],
+        "status": "up"
     },
     "europeanejustice": {
         "display": "European e-Justice Portal",
         "url": "https://e-justice.europa.eu/",
-        "tags": ["commercial registries"]
+        "tags": ["commercial registries"],
+        "status": "up"
     },
     "opentopia": {
         "display": "Opentopia",
         "url": "http://www.opentopia.com/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "insecam": {
         "display": "Insecam",
         "url": "http://www.insecam.org/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "shodan": {
         "display": "Shodan",
         "url": "https://www.shodan.io/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "earthcam": {
         "display": "EarthCam",
         "url": "https://www.earthcam.com/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "webcamsdottravel": {
         "display": "Webcams.travel",
         "url": "https://www.webcams.travel/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "pictimo": {
         "display": "Pictimo",
         "url": "https://www.pictimo.com/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "wetter": {
         "display": "wetter.com",
         "url": "https://www.wetter.com/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "lookr": {
         "display": "lookr",
         "url": "https://www.lookr.com/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "wisuki": {
         "display": "wisuki",
         "url": "http://wisuki.com/",
-        "tags": ["webcams"]
+        "tags": ["webcams"],
+        "status": "up"
     },
     "getmetadata": {
         "display": "Get-Metadata",
         "url": "https://www.get-metadata.com/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "jeffreysimagemetadata": {
         "display": "Jeffrey's Image Metadata Viewer",
         "url": "http://exif.regex.info/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "metapicz": {
         "display": "metapicz",
         "url": "http://metapicz.com/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "fotoforensics": {
         "display": "FotoForensics",
         "url": "http://fotoforensics.com/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "forensically": {
         "display": "Forensically Beta",
         "url": "https://29a.ch/photo-forensics/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "irfanview": {
         "display": "IrfanView",
         "url": "https://www.irfanview.com/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "hetlordspiderpig": {
         "display": "Spiderpig",
         "url": "https://github.com/hatlord/Spiderpig",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "exifdata": {
         "display": "EXIFdata.com",
         "url": "http://exifdata.com/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "exiftool": {
         "display": "ExifTool",
         "url": "https://www.sno.phy.queensu.ca/~phil/exiftool/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "invid": {
         "display": "InVID",
         "url": "https://www.invid-project.eu/",
-        "tags": ["media forensics"]
+        "tags": ["media forensics"],
+        "status": "up"
     },
     "google": {
         "display": "Google",
         "url": "https://www.google.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "yandex": {
         "display": "Yandex",
         "url": "https://yandex.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "bing": {
         "display": "Bing",
         "url": "https://www.bing.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "waybackmachine": {
         "display": "Wayback Machine",
         "url": "https://archive.org/web/web.php",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "duckduckgo": {
         "display": "DuckDuckGo",
         "url": "https://duckduckgo.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "naver": {
         "display": "NAVER",
         "url": "https://www.naver.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "baidu": {
         "display": "Baidu",
         "url": "https://www.baidu.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "goo": {
         "display": "goo",
         "url": "https://www.goo.ne.jp/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "sogousearch": {
         "display": "Sogou Search",
         "url": "https://www.sogou.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "rambler": {
         "display": "Rambler",
         "url": "https://www.rambler.ru/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "kakao": {
         "display": "kakao",
         "url": "https://www.kakaocorp.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "yahoo": {
         "display": "Yahoo!",
         "url": "https://www.yahoo.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "archivedottoday": {
         "display": "Archive.today",
         "url": "http://archive.fo/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "pimeyes": {
         "display": "PimEyes",
         "url": "https://pimeyes.com/",
-        "tags": ["internet search"]
+        "tags": ["internet search"],
+        "status": "up"
     },
     "geonames": {
         "display": "GeoNames",
         "url": "http://www.geonames.org/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "secretsofthewest": {
         "display": "Secrets of the West",
         "url": "http://www.synnatschke.de/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "dualmaps": {
         "display": "Dual Maps",
         "url": "http://dualmaps.com/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "wikimapia": {
         "display": "Wikimapia",
         "url": "http://wikimapia.org/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "freegisdata": {
         "display": "Free GIS Data",
         "url": "https://freegisdata.rtwilson.com/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "openrailwaymap": {
         "display": "OpenRailwayMap",
         "url": "https://www.openrailwaymap.org/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "mapsdotme": {
         "display": "Maps.me",
         "url": "https://maps.me/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "mapillary": {
         "display": "Mapillary",
         "url": "https://www.mapillary.com/",
-        "tags": ["geospatial data"]
+        "tags": ["geospatial data"],
+        "status": "up"
     },
     "googlemaps": {
         "display": "Google Maps",
         "url": "https://www.google.com/maps",
-        "tags": ["geospatial data", "satellite imagery"]
+        "tags": ["geospatial data", "satellite imagery"],
+        "status": "up"
     },
     "bingmaps": {
         "display": "Bing Maps",
         "url": "https://www.bing.com/maps",
-        "tags": ["geospatial data", "satellite imagery"]
+        "tags": ["geospatial data", "satellite imagery"],
+        "status": "up"
     },
     "applemaps": {
         "display": "Apple Maps",
         "url": "https://developer.apple.com/maps/",
-        "tags": ["geospatial data", "satellite imagery"]
+        "tags": ["geospatial data", "satellite imagery"],
+        "status": "up"
     },
     "here": {
         "display": "Here",
         "url": "https://here.com/",
-        "tags": ["geospatial data", "satellite imagery"]
+        "tags": ["geospatial data", "satellite imagery"],
+        "status": "up"
     },
     "yandexmaps": {
         "display": "Yandex Maps",
         "url": "https://yandex.com/maps/",
-        "tags": ["geospatial data", "satellite imagery"]
+        "tags": ["geospatial data", "satellite imagery"],
+        "status": "up"
     },
     "googleearth": {
         "display": "Google Earth",
         "url": "https://earth.google.com/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "descarteslabs": {
         "display": "Descartes Labs",
         "url": "https://www.descarteslabs.com/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "terraserver": {
         "display": "TerraServer",
         "url": "https://www.terraserver.com/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "airbusgeostore": {
         "display": "GeoStore",
         "url": "https://www.intelligence-airbusds.com/geostore/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "zoomearth": {
         "display": "Zoom Earth",
         "url": "https://zoom.earth/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "unitar": {
         "display": "UNITAR",
         "url": "https://www.unitar.org/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "harris": {
         "display": "Harris",
         "url": "https://www.harris.com/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "usgsearthexplorer": {
         "display": "EarthExplorer",
         "url": "https://earthexplorer.usgs.gov/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "esacopernicus": {
         "display": "Copernicus",
         "url": "https://www.copernicus.eu/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "planet": {
         "display": "Planet",
         "url": "https://www.planet.com/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "radiantearth": {
         "display": "Radiant Earth",
         "url": "https://www.radiant.earth/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "noaa": {
         "display": "NOAA",
         "url": "https://www.noaa.gov/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "earthdata": {
         "display": "Earthdata",
         "url": "https://www.noaa.gov/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "esaearthonline": {
         "display": "Earth Online",
         "url": "https://earth.esa.int/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "digitalglobe": {
         "display": "DigitalGlobe",
         "url": "http://www.digitalglobe.com/",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     },
     "sentinel": {
         "display": "Sentinel Online",
         "url": "https://sentinel.esa.int/web/sentinel/home",
-        "tags": ["satellite imagery"]
+        "tags": ["satellite imagery"],
+        "status": "up"
     }
 }
 
