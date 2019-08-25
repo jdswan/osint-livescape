@@ -1,4 +1,4 @@
-# OSINT Livescape 0.2
+# OSINT Livescape 0.3
 ## A live view of the OSINT landscape
 
 OSINT Livescape is inspired by and an extension of the OSINT Landscape document v. 1 authored by H I Sutton ([@CovertShores](https://twitter.com/CovertShores)), Aliaume Leroy ([@Yaolri](https://twitter.com/Yaolri)), and Tony Roper ([@Topol_MSS27](https://twitter.com/)).
@@ -30,3 +30,9 @@ OSINT Livescape removes the problems inherent to a static list of internet resou
    * websta
    * Google+
    * izitru
+
+**0.3** Status attribute added to elements
+ * Staus reflects availability of service: up, down, and disabled for services still reachable but state they are currently offline due to API changes.
+ * The following elements have a current status of "disabled"
+   * peoplefindThor
+   * socilab
