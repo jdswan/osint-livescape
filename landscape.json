@@ -104,11 +104,6 @@
         "url": "http://socilab.com/",
         "tags": ["linkedin", "social media"]
     },
-    "photomap": {
-        "display": "Photo Map",
-        "url": "",
-        "tags": ["vk", "social media"]
-    },
     "snapmap": {
         "display": "SnapMap",
         "url": "http://snapmap.com",
