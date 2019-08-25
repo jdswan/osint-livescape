@@ -89,11 +89,6 @@
         "url": "https://tweetdeck.twitter.com/",
         "tags": ["twitter", "social media"]
     },
-    "downloadtwittervideo": {
-        "display": "Download-Twitter-Video",
-        "url": "",
-        "tags": ["twitter", "social media"]
-    },
     "websta": {
         "display": "Websta",
         "url": "http://websta.me",
