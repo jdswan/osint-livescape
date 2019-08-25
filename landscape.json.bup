@@ -89,6 +89,11 @@
         "url": "https://tweetdeck.twitter.com/",
         "tags": ["twitter", "social media"]
     },
+    "websta": {
+        "display": "Websta",
+        "url": "http://websta.me",
+        "tags": ["instagram", "social media"]
+    },
     "picodash": {
         "display": "picodish",
         "url": "https://www.picodash.com/",
