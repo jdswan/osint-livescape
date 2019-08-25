@@ -1,11 +1,11 @@
 # OSINT Livescape 0.2
 ## A live view of the OSINT landscape
 
-OSINT Livescape is inspired by and an extension of the OSINT Landscape document v. 1 authored by H I Sutton [@CovertShores](https://twitter.com/CovertShores), Aliaume Leroy [@Yaolri](https://twitter.com/Yaolri), and Tony Roper [@Topol_MSS27](https://twitter.com/).
+OSINT Livescape is inspired by and an extension of the OSINT Landscape document v. 1 authored by H I Sutton ([@CovertShores](https://twitter.com/CovertShores)), Aliaume Leroy ([@Yaolri](https://twitter.com/Yaolri)), and Tony Roper ([@Topol_MSS27](https://twitter.com/)).
 
 #### From Landscape to Livescape
 
-OSINT Livescape removes the problems inherent to a static list of internet resources, and opens up new possibilities for crowd-sourced maintenence of the captured landscape.
+OSINT Livescape removes the problems inherent to a static list of internet resources, and opens up new possibilities for crowd-sourced maintenance of the captured landscape.
 
 
 
