@@ -1,7 +1,7 @@
 # OSINT Livescape 0.2
 ## A live view of the OSINT landscape
 
-OSINT Livescape is inspired by and an extension of the OSINT Landscape document v. 1 authored by H I Sutton (@CovertShores), Aliaume Leroy (@Yaolri), and Tony Roper (@Topol_MSS27).
+OSINT Livescape is inspired by and an extension of the OSINT Landscape document v. 1 authored by H I Sutton [@CovertShores](https://twitter.com/CovertShores), Aliaume Leroy [@Yaolri](https://twitter.com/Yaolri), and Tony Roper [@Topol_MSS27](https://twitter.com/).
 
 #### From Landscape to Livescape
 
