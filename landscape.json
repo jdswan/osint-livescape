@@ -464,11 +464,6 @@
         "url": "http://exifdata.com/",
         "tags": ["media forensics"]
     },
-    "izitru": {
-        "display": "izitru",
-        "url": "http://www.izitru.com/",
-        "tags": ["media forensics"]
-    },
     "exiftool": {
         "display": "ExifTool",
         "url": "https://www.sno.phy.queensu.ca/~phil/exiftool/",
