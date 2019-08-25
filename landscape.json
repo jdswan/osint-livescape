@@ -259,11 +259,6 @@
         "url": "https://www.aishub.net/",
         "tags": ["maritime movements"]
     },
-    "shipfinderdotco": {
-        "display": "Ship Finder",
-        "url": "https://shipfinder.co/",
-        "tags": ["maritime movements"]
-    },
     "openseamap": {
         "display": "OpenSeaMap",
         "url": "http://openseamap.org/",
