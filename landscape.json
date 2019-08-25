@@ -294,11 +294,6 @@
         "url": "http://ais.boatnerd.com/",
         "tags": ["maritime movements"]
     },
-    "aisdecoder": {
-        "display": "AisDecoder",
-        "url": "",
-        "tags": ["maritime movements"]
-    },
     "coaa": {
         "display": "COAA",
         "url": "https://www.coaa.co.uk/",
